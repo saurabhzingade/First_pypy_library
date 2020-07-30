@@ -1,0 +1,10 @@
+setup.py
+distributions_zincsy/BaseDistribution.py
+distributions_zincsy/BinomialDistribution.py
+distributions_zincsy/GaussianDistribution.py
+distributions_zincsy/__init__.py
+distributions_zincsy.egg-info/PKG-INFO
+distributions_zincsy.egg-info/SOURCES.txt
+distributions_zincsy.egg-info/dependency_links.txt
+distributions_zincsy.egg-info/not-zip-safe
+distributions_zincsy.egg-info/top_level.txt
