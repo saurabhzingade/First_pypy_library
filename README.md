@@ -9,7 +9,7 @@ You can find the package on the following link <br>
 <br>
 <h4> You can install the package locally using the following command</h4>
 
-```
+``` bash
 pip install -i https://test.pypi.org/simple/ distributions-zincsy
 ```
 
