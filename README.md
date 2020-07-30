@@ -8,6 +8,6 @@ You can find the package on the following link <br>
 <h2>https://test.pypi.org/project/distributions-zincsy/ </h2>
 <br>
 <h4> You can install the package locally using the following command</h4>
-```bash
+'''
 pip install -i https://test.pypi.org/simple/ distributions-zincsy
-```
+'''
